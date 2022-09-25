@@ -1,5 +1,4 @@
-# SRS_HRsystem
-Software Requirements Specification document for an HR System management application
+# Software Requirements Specification document for an HR System management application
 
 The System Analysis and Design Course required us to complete a project which consisted of completing a number of activities which would combine together to create as SRS document.
 
